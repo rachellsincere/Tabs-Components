@@ -1,6 +1,6 @@
 
-class TabLink {
-  constructor(element) {
+/*class TabLink {
+  constructor(element) { 
     // Assign this.element to the passed in DOM element
     // this.element;
     
@@ -15,7 +15,7 @@ class TabLink {
     
     // Add a click event listener on this instance, calling the select method on click
 
-  };
+  }; 
 
   select() {
     // Get all of the elements with the tabs-link class
@@ -47,7 +47,7 @@ class TabItem {
     // Add a class named "tabs-item-selected" to this element
     //this.element;
   }
-}
+} */
 
 /* START HERE: 
 
@@ -59,4 +59,4 @@ class TabItem {
 
 */
 
-links = document.querySelectorAll();
+//links = document.querySelectorAll(); 
